@@ -128,3 +128,9 @@ export NOTION_SUMMARIES_PAGE_ID="page_id_for_summaries"  # optional
 ## 📄 License
 
 MIT — Built by [LIMITLESS Automation](https://limitless-automation.com)
+
+## 🚀 Get Pro
+
+Free tier available on [MCPize](https://mcpize.com/mcp/notion-autopilot) — 50 requests/month, no credit card needed. Upgrade to Pro for bulk operations and session summaries.
+
+[![Available on MCPize](https://img.shields.io/badge/MCPize-Available-purple)](https://mcpize.com/mcp/notion-autopilot)
